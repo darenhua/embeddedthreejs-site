@@ -1,16 +1,11 @@
-# Three.js - Template - Simple
+# Getting back into web 🎈
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Made with HTML, CSS, and JS (three.js)
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+## Check out the wesite!
 
-# Run the local server at localhost:8080
-npm run dev
+https://embeddedthree-demo.netlify.app/
 
-# Build for production in the dist/ directory
-npm run build
-```
+## Like it on codepen!
+
+https://codepen.io/darenhua/pen/NWaYXJp
